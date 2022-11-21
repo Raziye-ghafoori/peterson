@@ -1,4 +1,4 @@
-# peterson
+# perceptron
 
 Guess the letters a to e with peterson neural network
 
